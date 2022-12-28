@@ -1,0 +1,2 @@
+# SampleCacheEntity
+Cache
